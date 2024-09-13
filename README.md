@@ -1,3 +1,4 @@
+![logo](https://github.com/Sye0x/Sye0x/blob/main/Bannar.png)
 <h1 align="center">Hi 👋, I'm Mohamid</h1>
 <h3 align="center">A passionate Student Searching for the path to become a Great Programmer.</h3>
 
