@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Sye0x/Sye0x/blob/main/Bannar.png" height="400" />
+  <img src="[https://github.com/Sye0x/Sye0x/blob/main/Bannar.png](https://github.com/Sye0x/Sye0x/blob/main/Banner.png)" height="400" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamid</h1>
