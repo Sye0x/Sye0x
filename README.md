@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 👯 I’m looking to collaborate on **Real world project**
+- 👯 I’m looking to collaborate on **Real world Problem solving project**
 
 - 🤝 I’m looking for help with **learning and path that best suits me.**
 
