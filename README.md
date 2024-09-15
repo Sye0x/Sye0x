@@ -1,9 +1,6 @@
-<div align="center">
-  <img src="https://github.com/Sye0x/Sye0x/blob/main/Banner.png" height="400" />
-</div>
 
 <h1 align="center">Hi 👋, I'm Mohamid</h1>
-<h3 align="center">A passionate Student Searching for the path to become a Great Programmer.</h3>
+<h3 align="center">A passionate Computer Science student 🎓 dedicated to becoming a skilled programmer 💻. I've worked with various technologies and am always eager to learn more 📚, grow my skills 🚀, and take on new challenges in the tech world 🌐.</h3>
 
 - 🔭 I’m currently working on **Cross-Platform Mobile Apps**
 
