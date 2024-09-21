@@ -1,7 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Syed Mohamid Raza</h1>
-<h3 align="center">A passionate Computer Science student 🎓 dedicated to becoming a skilled programmer 💻. I've worked with various technologies and am always eager to learn more 📚, grow my skills 🚀, and take on new challenges in the tech world 🌐.</h3>
-
+<h1 align="center">Hello! 👋 I'm Syed Mohamid Raza</h1> <h3 align="center">As a dedicated Computer Science student 🎓, I am passionate about honing my programming skills 💻 and leveraging technology to solve real-world problems. With experience in various technologies, I thrive on challenges that push my limits and inspire growth 📚. I am eager to continue learning and contributing to innovative projects that make a difference in the tech landscape 🌐.</h3>
 - 🔭 I’m currently working on **Cross-Platform Mobile Apps**
 
 - 🌱 I’m currently learning **ReactNative**
