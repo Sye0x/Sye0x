@@ -100,6 +100,9 @@
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Badge"/>
   </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge"/>
+  </a>
   <a href="https://www.adobe.com/products/illustrator.html">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator Badge"/>
   </a>
