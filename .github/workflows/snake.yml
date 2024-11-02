@@ -12,13 +12,13 @@ jobs:
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: Sye0x/checkout@v3
 
       # Step 2: Generate the snake animation
       - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
+        uses: Sye0x/snk@v3
         with:
-          github_user_name: Sye0x
+          github_user_name: mishmanners
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -28,7 +28,7 @@ jobs:
 
       # Step 4: Push changes to the output branch
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: Sye0x/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
