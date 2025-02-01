@@ -1,9 +1,7 @@
-
 <h1 align="center">Syed Mohamid Raza</h1> 
 <h3 align="center" style="margin-bottom: 5px;">
   <b>🎓 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev</b>
 </h3>
-
 
 <p align="justify">
 Computer Science student, continuously honing my programming skills and exploring emerging technologies. 
@@ -40,7 +38,6 @@ Always eager to learn, build, and collaborate! 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" alt="Mohamid's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sye0x&theme=transparent" alt="sye0x" />
 </div>
-
 
 <h2 align="center">Languages</h2>
 <table align="center" style="width: 60%; border-collapse: collapse; border: none; margin: auto;">
@@ -128,4 +125,5 @@ Always eager to learn, build, and collaborate! 🚀
 </p><div align="center">
   <img src="https://github.com/Sye0x/SnakeGameGit/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
+
 <h2 align="center">Hope you have a wonderful day🎇</h2>
