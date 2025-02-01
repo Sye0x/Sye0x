@@ -1,13 +1,21 @@
 
-<h1 align="center">Hello! 👋 I'm Syed Mohamid Raza</h1> <h3 align="center">As a dedicated Computer Science student 🎓, I am passionate about honing my programming skills 💻 and leveraging technology to solve real-world problems. With experience in various technologies, I thrive on challenges that push my limits and inspire growth 📚. I am eager to continue learning and contributing to innovative projects that make a difference in the tech landscape 🌐.</h3>
+<h1 align="center">Syed Mohamid Raza</h1> 
+<h3 align="center" style="margin-bottom: 5px;">
+  <b>🎓 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev</b>
+</h3>
 
-- 🔭 I’m currently working on <b>Cross-Platform Mobile Apps</b>
 
-- 🌱 I’m currently learning **ReactNative**
+<p align="justify">
+I’m a dedicated Computer Science student, continuously honing my programming skills and exploring emerging technologies. 
+With a passion for innovation, I strive to contribute to impactful projects that shape the future of tech. 
+Always eager to learn, build, and collaborate! 🚀
+</p>
+
+- 🔭 currently working on <b>Cross-Platform Apps & Game Development</b>
+
+- 🌱 currently learning: **ReactNative** | **Flutter** | **Unity** | **LLMs**
 
 - 👯 I’m looking to collaborate on **Real world Problem solving project**
-
-- 🤝 I’m looking for help with **learning and path that best suits me.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sye0x?tab=repositories](https://github.com/Sye0x?tab=repositories)
 
