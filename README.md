@@ -125,6 +125,6 @@ Always eager to learn, build, and collaborate! 🚀
 <p align="left">
 <a href="https://linkedin.com/in/syed mohamid raza nadvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed mohamid raza nadvi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamid raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamid raza" height="30" width="40" /></a>
-</p>
-
-![snake gif](https://github.com/Syex0x/SnakeGameGit/blob/output/github-snake-dark.svg)
+</p><div align="center">
+  <img src="https://github.com/Sye0x/SnakeGameGit/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
