@@ -21,7 +21,7 @@ Always eager to learn, build, and collaborate! 🚀
       <td>React Native · Flutter · Unity · LLMs</td>
     </tr>
     <tr>
-      <th>🫱🏽‍🫲 Collaborating On</th>
+      <th>🫱🏽‍🫲🏾 Collaborating On</th>
       <td>Real Problem-Solving Projects</td>
     </tr>
     <tr>
