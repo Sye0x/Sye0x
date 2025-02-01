@@ -128,3 +128,4 @@ Always eager to learn, build, and collaborate! 🚀
 </p><div align="center">
   <img src="https://github.com/Sye0x/SnakeGameGit/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
+<h2 align="center">Hope you have a wonderful day🎇</h2>
