@@ -42,8 +42,8 @@ Always eager to learn, build, and collaborate! 🚀
 </div>
 
 
-<h2>Languages</h2>
-<table style="width: 60%; border-collapse: collapse; border: none; margin: auto;">
+<h2 align="center">Languages</h2>
+<table align="center" style="width: 60%; border-collapse: collapse; border: none; margin: auto;">
   <tr>
     <td align="center" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40px" alt="C++" />
@@ -82,9 +82,9 @@ Always eager to learn, build, and collaborate! 🚀
   </tr>
 </table>
 
-<h2>Tools and Editors</h2>
+<h2 align="center">Tools and Editors</h2>
 
-<table style="width: 60%; border-collapse: collapse; border: none; margin: auto;">
+<table align="center" style="width: 60%; border-collapse: collapse; border: none; margin: auto;">
   <tr>
     <td align="center" style="border: none;">
       <a href="https://code.visualstudio.com/">
