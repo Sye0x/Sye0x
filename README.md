@@ -6,7 +6,7 @@
 
 
 <p align="justify">
-I’m a dedicated Computer Science student, continuously honing my programming skills and exploring emerging technologies. 
+Computer Science student, continuously honing my programming skills and exploring emerging technologies. 
 With a passion for innovation, I strive to contribute to impactful projects that shape the future of tech. 
 Always eager to learn, build, and collaborate! 🚀
 </p>
