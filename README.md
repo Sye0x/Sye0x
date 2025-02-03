@@ -35,9 +35,12 @@ Always eager to learn, build, and collaborate! 🚀
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center">Stats</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img style="width:40%" src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" alt="Mohamid's GitHub Stats" />
-  <img style="width:40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sye0x&theme=transparent" alt="Sye0x" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" alt="Mohamid's GitHub Stats" />
+  <img width="40%" src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent" alt="Sye0x's Streak Stats" />
 </div>
+
+
+
 
 <h2 align="center">Languages</h2>
 <table align="center" style="width: 60%; border-collapse: collapse; border: none; margin: auto;">
