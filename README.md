@@ -8,7 +8,9 @@ Computer Science student, continuously honing my programming skills and explorin
 With a passion for innovation, I strive to contribute to impactful projects that shape the future of tech. 
 Always eager to learn, build, and collaborate! 🚀
 </p>
-
+<h3 align="center" style="margin-bottom: 5px;">
+  <b>Overview</b>
+</h3>
 <table align="center">
     <tr>
       <th>🔭 Currently Working On</th>
