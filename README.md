@@ -132,3 +132,7 @@ Always eager to learn, build, and collaborate! 🚀
 </div>
 
 <h2 align="center">Hope you have a wonderful day🎇</h2>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Sye0x/count.svg" />
+</p>
