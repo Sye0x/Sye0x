@@ -11,6 +11,9 @@ Always eager to learn, build, and collaborate! 🚀
 <h3 align="center" style="margin-bottom: 5px;">
   <b>Overview</b>
 </h3>
+
+
+
 <table align="center">
     <tr>
       <th>🔭 Currently Working On</th>
@@ -36,92 +39,35 @@ Always eager to learn, build, and collaborate! 🚀
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center">Stats</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style=" justify-content: center; gap: 20px; ">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" alt="Mohamid's GitHub Stats" />
+ 
+</div>
+<div align="center" style=" justify-content: center; gap: 20px; ">
+
   <img width="40%" src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent" alt="Sye0x's Streak Stats" />
 </div>
 
 
 
 
-<h2 align="center">Languages</h2>
-<table align="center" style="width: 60%; border-collapse: collapse; border: none; margin: auto;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40px" alt="C++" />
-      <br />C++
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" alt="C#" />
-      <br />C#
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" alt="Flutter" />
-      <br />Flutter
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40px" alt="Dart" />
-      <br />Dart
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React Native" />
-      <br />React Native
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" alt="PHP" />
-      <br />PHP
-    </td>
-  </tr>
-</table>
+<h2 align="center">Gizmos</h2>
 
-<h2 align="center">Tools and Editors</h2>
+```javascript
+const Mohamid = {
+  pronouns: "he" | "him",
+  Language: [React-Narive,Flutter,Node.JS, FireBase,Javascript, C++, C#, Python, Java],
+  Tools: [VS Code, Android Studio, Node, Jupyter Notebook, Unity],
+  architecture: ["Object-Oriented", "event-driven", "design system pattern"],
+  Worked At: {
+                        Organization: "Ideagist",
+                        Role: "Web Devaloper,Social Media",
+                        Tools: "Wordpress"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and FireBase"
+}
+```
 
-<table align="center" style="width: 60%; border-collapse: collapse; border: none; margin: auto;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge"/>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://visualstudio.microsoft.com/">
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Badge"/>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://www.jetbrains.com/pycharm/">
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://notepad-plus-plus.org/">
-        <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++ Badge"/>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://jupyter.org/">
-        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge"/>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://unity.com/">
-        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
