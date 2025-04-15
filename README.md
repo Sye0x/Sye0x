@@ -56,7 +56,21 @@ Always eager to learn, build, and collaborate! 🚀
 ```javascript
 const Mohamid = {
   pronouns: "he" | "him",
-  Language: [React-Narive,Flutter,Node.JS, FireBase,Javascript, C++, C#, Python, Java],
+  frontEnd: {
+            js: ["React", "Next.js"],
+            css: [ "Tailwind", "Bootstrap"],
+        },
+  backEnd: {
+            js: ["Node"],
+            python: ["Flask"],
+        },
+  mobileApp: {
+            crossPlatform: ["Flutter","React Native"],
+        },
+  GameDev: {
+           C:[C#]
+          },
+  databases: [ "MySQL", "Firebase Realtime DB"]
   Tools: [VS Code, Android Studio, Node, Jupyter Notebook, Unity],
   architecture: ["Object-Oriented", "event-driven", "design system pattern"],
   Worked At: {
