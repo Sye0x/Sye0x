@@ -1,6 +1,6 @@
 <h1 align="center">Syed Mohamid Raza</h1> 
 <h3 align="center" style="margin-bottom: 5px;">
-  <b>🎓 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev</b>
+  <b>🎓 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev | 📲 App Dev</b>
 </h3>
 
 <p align="justify">
