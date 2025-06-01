@@ -75,10 +75,10 @@ const Mohamid = {
   architecture: ["Object-Oriented", "event-driven", "design system pattern"],
   Worked At: {
                         Organization: "Ideagist",
-                        Role: "Web Devaloper,Social Media",
-                        Tools: "Wordpress"
+                        Role: "Web Developer,Social Media",
+                        Tools: "WordPress"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and FireBase"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and Firebase"
 }
 ```
 
