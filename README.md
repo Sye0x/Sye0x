@@ -39,15 +39,13 @@ Always eager to learn, build, and collaborate! 🚀
   </table>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<h2 align="center">Stats</h2>
-<div align="center" style=" justify-content: center; gap: 20px; ">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" alt="Mohamid's GitHub Stats" />
- 
-</div>
-<div align="center" style=" justify-content: center; gap: 20px; ">
+## 📊 GitHub Stats
 
-  <img width="40%" src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent" alt="Sye0x's Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" width="350" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent" width="350" alt="GitHub Streak" />
+</p>
+
 
 <h2 align="center">Gizmos</h2>
 
