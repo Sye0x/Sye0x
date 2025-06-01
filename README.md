@@ -15,8 +15,6 @@ Always eager to learn, build, and collaborate! 🚀
   <b>Overview</b>
 </h3>
 
-
-
 <table align="center">
     <tr>
       <th>🔭 Currently Working On</th>
@@ -51,9 +49,6 @@ Always eager to learn, build, and collaborate! 🚀
   <img width="40%" src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent" alt="Sye0x's Streak Stats" />
 </div>
 
-
-
-
 <h2 align="center">Gizmos</h2>
 
 ```javascript
@@ -78,7 +73,7 @@ const Mohamid = {
   architecture: ["Object-Oriented", "event-driven", "design system pattern"],
   Worked At: {
                         Organization: "Ideagist",
-                        Role: "Web Developer,Social Media",
+                        Role: "Web Developer, Social Media",
                         Tools: "WordPress"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and Firebase"
