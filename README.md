@@ -77,6 +77,16 @@ const Mohamid = {
  challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and Firebase"
 }
 ```
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,unity,nodejs,tailwind,bootstrap,python,flask,mysql,firebase,git,vscode,androidstudio" />
+</p>
+
+## 🏆 Certifications
+
+- Flutter & Dart - The Complete Guide (Udemy)
+- Introduction to LLMs (DeepLearning.AI)
+
 
 
 <h2 align="left">Connect with me:</h2>
