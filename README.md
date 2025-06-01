@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=true&width=435&lines=Hi+I'm+Syed+Mohamid+Raza;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=9660F7&width=480&height=80&lines=Hi+I'm+Syed+Mohamid+Raza" alt="Typing SVG" />
 </h1>
+
 </h1>
 <h3 align="center" style="margin-bottom: 5px;">
   <b>🎓 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev | 📲 App Dev</b>
