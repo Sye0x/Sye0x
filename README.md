@@ -97,5 +97,10 @@ const Mohamid = {
   <img src="https://github.com/Sye0x/SnakeGameGit/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+
 <h2 align="center">Hope you have a wonderful day🎇</h2>
 
