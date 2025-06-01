@@ -85,7 +85,7 @@ const Mohamid = {
 ## 🏆 Certifications
 
 - Flutter & Dart - The Complete Guide (Udemy)
-- Introduction to LLMs (DeepLearning.AI)
+- Introduction to LLMs (Udemy)
 
 
 
