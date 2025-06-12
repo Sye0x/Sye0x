@@ -75,7 +75,6 @@ const Mohamid = {
                         Role: "Web Developer, Social Media",
                         Tools: "WordPress"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and Firebase"
 }
 ```
 ## 🛠️ Languages & Tools
