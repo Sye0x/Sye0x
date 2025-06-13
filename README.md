@@ -79,14 +79,15 @@ const Mohamid = {
 ```
 ```javascript
 const Chess = {
-  platform: "Lichess",
-  username: "SyedChess",
+  platform: "Chess.com",
+  username: "Syex",
+  link:"https://www.chess.com/member/syex",
   ratings: {
     blitz: 700,
     rapid: 1070,
   },
   favoriteOpening: "London System",
-  goal: "Reach 2000+ in rapid ♛"
+  goal: "Reach 2000+ in rapid and blitz ♛"
 }
 ```
 
