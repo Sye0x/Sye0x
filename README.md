@@ -77,6 +77,19 @@ const Mohamid = {
                       },
 }
 ```
+```javascript
+const Chess = {
+  platform: "Lichess",
+  username: "SyedChess",
+  ratings: {
+    blitz: 700,
+    rapid: 1070,
+  },
+  favoriteOpening: "London System",
+  goal: "Reach 2000+ in rapid ♛"
+}
+```
+
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,unity,nodejs,tailwind,bootstrap,python,flask,mysql,firebase,git,vscode,androidstudio" />
@@ -103,4 +116,3 @@ const Mohamid = {
 
 
 <h2 align="center">Hope you have a wonderful day🎇</h2>
-
