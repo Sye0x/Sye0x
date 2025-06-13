@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=2D68C4&width=480&height=80&lines=Hi+I'm+Syed+Mohamid+Raza" alt="Typing SVG" />
 </h1>
 
+
+
 </h1>
 <h3 align="center" style="margin-bottom: 5px;">
   <b>🎓 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev | 📲 App Dev</b>
@@ -12,6 +14,9 @@ Computer Science student, continuously honing my programming skills and explorin
 With a passion for innovation, I strive to contribute to impactful projects that shape the future of tech. 
 Always eager to learn, build, and collaborate! 🚀
 </p>
+
+
+
 <h3 align="center" style="margin-bottom: 5px;">
   <b>Overview</b>
 </h3>
@@ -110,6 +115,10 @@ const Chess = {
 </p><div align="center">
   <img src="https://github.com/Sye0x/SnakeGameGit/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50B8,6E48AA&height=200&section=header&text=Eat%20Sleep%20Code%20Repeat!&fontSize=35&fontColor=39FF14" />
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
