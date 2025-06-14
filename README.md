@@ -59,18 +59,18 @@ Always eager to learn, build, and collaborate! 🚀
 const Mohamid = {
   pronouns: "he" | "him",
   frontEnd: {
-            js: ["React", "Next.js"],
-            css: [ "Tailwind", "Bootstrap"],
+            js: ["React"],
+            css: [ "Bootstrap"],
         },
   backEnd: {
-            js: ["Node"],
-            python: ["Flask"],
+            js,
+            python,
         },
   mobileApp: {
-            crossPlatform: ["Flutter","React Native"],
+            crossPlatform: ["Flutter", "React Native"],
         },
   GameDev: {
-           C:[C#]
+           C:[C++]
           },
   databases: [ "MySQL", "Firebase Realtime DB"]
   Tools: [VS Code, Android Studio, Node, Jupyter Notebook, Unity],
