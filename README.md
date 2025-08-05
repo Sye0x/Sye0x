@@ -1,128 +1,133 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=2D68C4&width=480&height=80&lines=Hi+I'm+Syed+Mohamid+Raza" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D68C4&center=true&vCenter=true&width=500&height=80&lines=Hi,+I'm+Syed+Mohamid+Raza" alt="Typing SVG" />
 </h1>
 
-
-
-</h1>
-<h3 align="center" style="margin-bottom: 5px;">
-  <b>🎓 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev | 📲 App Dev</b>
+<h3 align="center">
+🚀 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev | 📲 App Dev
 </h3>
 
-<p align="justify">
-Computer Science student, continuously honing my programming skills and exploring emerging technologies. 
-With a passion for innovation, I strive to contribute to impactful projects that shape the future of tech. 
-Always eager to learn, build, and collaborate! 🚀
+<p align="center">
+Passionate CS student exploring futuristic technologies and building impactful solutions.<br>
+Always learning, building, and aiming to leave an inspiring mark in the world of tech.
 </p>
 
+---
 
-
-<h3 align="center" style="margin-bottom: 5px;">
-  <b>Overview</b>
-</h3>
+### 🔍 Overview
 
 <table align="center">
-    <tr>
-      <th>🔭 Currently Working On</th>
-      <td>Cross-Platform Apps & Game Development</td>
-    </tr>
-    <tr>
-      <th>📚 Currently Learning</th>
-      <td>React Native · Flutter · Unity · LLMs</td>
-    </tr>
-    <tr>
-      <th>Collaborating On</th>
-      <td>Real Problem-Solving Projects</td>
-    </tr>
-    <tr>
-      <th>👨‍💻 My Projects</th>
-      <td><a href="https://github.com/Sye0x?tab=repositories" target="_blank">View My GitHub Repositories</a></td>
-    </tr>
-    <tr>
-      <th>📫 Contact Me</th>
-      <td><a href="mailto:s.r.mahamid@gmail.com">s.r.mahamid@gmail.com</a></td>
-    </tr>
-  </table>
+  <tr>
+    <th>🔭 Currently Working On</th>
+    <td>Cross-Platform Apps & Game Development</td>
+  </tr>
+  <tr>
+    <th>📚 Currently Learning</th>
+    <td>React Native · Flutter · Unity · LLMs</td>
+  </tr>
+  <tr>
+    <th>🤝 Collaborating On</th>
+    <td>Real Problem-Solving Projects</td>
+  </tr>
+  <tr>
+    <th>📁 My Repositories</th>
+    <td><a href="https://github.com/Sye0x?tab=repositories" target="_blank">View on GitHub</a></td>
+  </tr>
+  <tr>
+    <th>📄 Resume</th>
+    <td><a href="https://your-resume-link.com" target="_blank">Download CV</a></td>
+  </tr>
+  <tr>
+    <th>📫 Contact Me</th>
+    <td><a href="mailto:s.r.mahamid@gmail.com">s.r.mahamid@gmail.com</a></td>
+  </tr>
+</table>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+
+---
+
+## 🌟 Top Repositories
+
+<p align="center">
+  <a href="https://github.com/Sye0x/Sorting-Algorithm-Virtual-APP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Sorting-Algorithm-Virtual-APP&theme=dark" />
+  </a>
+  <a href="https://github.com/Sye0x/TIC-TAC-TOE-Impossible-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=TIC-TAC-TOE-Impossible-Bot&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sye0x/Cookie-Clicker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Cookie-Clicker&theme=dark" />
+  </a>
+  <a href="https://github.com/Sye0x/2048-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=2048-Game&theme=dark" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" width="350" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent" width="350" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=dark&bg_color=00000000" width="370" />
+  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=dark&background=00000000" width="370" />
 </p>
 
+---
 
-<h2 align="center">Gizmos</h2>
+## 👨‍💻 Gizmos (Tech Stack)
 
 ```javascript
 const Mohamid = {
   pronouns: "he" | "him",
-  frontEnd: {
-            js: ["React"],
-            css: [ "Bootstrap"],
-        },
-  backEnd: {
-            js,
-            python,
-        },
-  mobileApp: {
-            crossPlatform: ["Flutter", "React Native"],
-        },
-  GameDev: {
-           C:[C++]
-          },
-  databases: [ "MySQL", "Firebase Realtime DB"]
-  Tools: [VS Code, Android Studio, Node, Jupyter Notebook, Unity],
-  architecture: ["Object-Oriented", "event-driven", "design system pattern"],
-  Worked At: {
-                        Organization: "Ideagist",
-                        Role: "Web Developer, Social Media",
-                        Tools: "WordPress"
-                      },
-}
+  frontEnd: { js: ["React"], css: ["Bootstrap"] },
+  backEnd: { js, python },
+  mobileApp: { crossPlatform: ["Flutter", "React Native"] },
+  gameDev: { languages: ["C++"] },
+  databases: ["MySQL", "Firebase Realtime DB"],
+  tools: ["VS Code", "Android Studio", "Node", "Jupyter Notebook", "Unity"],
+  architecture: ["Object-Oriented", "event-driven", "design systems"],
+  workedAt: {
+    organization: "Ideagist",
+    role: ["Web Developer", "Social Media"],
+    tools: ["WordPress"]
+  }
+};
 ```
+<h2>♟️ Chess Side-Quest</h2>
+
 ```javascript
 const Chess = {
   platform: "Chess.com",
   username: "Syex",
-  link:"https://www.chess.com/member/syex",
-  ratings: {
-    blitz: 700,
-    rapid: 1070,
-  },
+  link: "https://www.chess.com/member/syex",
+  ratings: { blitz: 700, rapid: 1070 },
   favoriteOpening: "London System",
   goal: "Reach 2000+ in rapid and blitz ♛"
 }
 ```
+---
+
+## 🏅 Certifications
+
+- **Flutter & Dart – The Complete Guide** (Udemy)  
+- **Introduction to LLMs** (Udemy)
+
+---
 
 ## 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,unity,nodejs,tailwind,bootstrap,python,flask,mysql,firebase,git,vscode,androidstudio" />
 </p>
 
-## 🏆 Certifications
+---
 
-- Flutter & Dart - The Complete Guide (Udemy)
-- Introduction to LLMs (Udemy)
-
-
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/syed mohamid raza nadvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed mohamid raza nadvi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamid raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamid raza" height="30" width="40" /></a>
-</p><div align="center">
+<div align="center">
   <img src="https://github.com/Sye0x/SnakeGameGit/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D50B8,6E48AA&height=200&section=header&text=Eat%20Sleep%20Code%20Repeat!&fontSize=35&fontColor=39FF14" />
-</p>
+---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-
-
-<h2 align="center">Hope you have a wonderful day🎇</h2>
+<h2 align="center">Have a wonderful day 🎇</h2>
