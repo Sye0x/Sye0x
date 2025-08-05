@@ -34,7 +34,7 @@ Always learning, building, and aiming to leave an inspiring mark in the world of
   </tr>
   <tr>
     <th>📄 Resume</th>
-    <td><a href="https://your-resume-link.com" target="_blank">Download CV</a></td>
+    <td><a href="https://github.com/Sye0x/Sye0x/blob/main/Syed%20Mohamid%20Raza%20.pdf" target="_blank">Download CV</a></td>
   </tr>
   <tr>
     <th>📫 Contact Me</th>
@@ -46,22 +46,21 @@ Always learning, building, and aiming to leave an inspiring mark in the world of
 ---
 
 ## 🌟 Top Repositories
-
 <p align="center">
   <a href="https://github.com/Sye0x/Sorting-Algorithm-Virtual-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Sorting-Algorithm-Virtual-APP&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Sorting-Algorithm-Virtual-APP&theme=radical" />
   </a>
   <a href="https://github.com/Sye0x/TIC-TAC-TOE-Impossible-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=TIC-TAC-TOE-Impossible-Bot&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=TIC-TAC-TOE-Impossible-Bot&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sye0x/Cookie-Clicker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Cookie-Clicker&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Cookie-Clicker&theme=radical" />
   </a>
   <a href="https://github.com/Sye0x/2048-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=2048-Game&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=2048-Game&theme=radical" />
   </a>
 </p>
 
@@ -70,9 +69,10 @@ Always learning, building, and aiming to leave an inspiring mark in the world of
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=dark&bg_color=00000000" width="370" />
-  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=dark&background=00000000" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=radical" width="370" />
+  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=radical" width="370" />
 </p>
+
 
 ---
 
