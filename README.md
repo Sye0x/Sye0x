@@ -7,8 +7,9 @@
 </h3>
 
 <p align="center">
-Passionate CS student exploring futuristic technologies and building impactful solutions.<br>
-Always learning, building, and aiming to leave an inspiring mark in the world of tech.
+I am a final-year Computer Science student learning about different technologies and understanding my own strengths and weaknesses.<br>
+I want to explore and learn new things to discover what I can do as a programmer.<br>
+My aim is to leave a mark in the tech industry by creating, innovating, and helping others.<br>
 </p>
 
 ---
@@ -48,19 +49,19 @@ Always learning, building, and aiming to leave an inspiring mark in the world of
 ## 🌟 Top Repositories
 <p align="center">
   <a href="https://github.com/Sye0x/Sorting-Algorithm-Virtual-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Sorting-Algorithm-Virtual-APP&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Sorting-Algorithm-Virtual-APP&theme=dark&bg_color=000000&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
   </a>
   <a href="https://github.com/Sye0x/TIC-TAC-TOE-Impossible-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=TIC-TAC-TOE-Impossible-Bot&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=TIC-TAC-TOE-Impossible-Bot&theme=dark&bg_color=000000&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sye0x/Cookie-Clicker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Cookie-Clicker&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Cookie-Clicker&theme=dark&bg_color=000000&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
   </a>
   <a href="https://github.com/Sye0x/2048-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=2048-Game&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=2048-Game&theme=dark&bg_color=000000&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
   </a>
 </p>
 
@@ -69,9 +70,11 @@ Always learning, building, and aiming to leave an inspiring mark in the world of
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=radical" width="370" />
-  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=radical" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=dark" width="370" />
+  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=dark" width="370" />
 </p>
+
+
 
 
 ---
