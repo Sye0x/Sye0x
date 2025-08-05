@@ -70,11 +70,13 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent" width="350" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent" width="350" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent&cache_bust=1" width="350" alt="GitHub Stats" />
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent&cache_bust=1" width="350" alt="GitHub Streak" />
+</p>
 
 
 ---
