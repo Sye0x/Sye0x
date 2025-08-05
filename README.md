@@ -49,19 +49,19 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 ## 🌟 Top Repositories
 <p align="center">
   <a href="https://github.com/Sye0x/Sorting-Algorithm-Virtual-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Sorting-Algorithm-Virtual-APP&theme=dark&bg_color=000000&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Sorting-Algorithm-Virtual-APP&theme=transparent&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
   </a>
   <a href="https://github.com/Sye0x/TIC-TAC-TOE-Impossible-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=TIC-TAC-TOE-Impossible-Bot&theme=dark&bg_color=000000&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=TIC-TAC-TOE-Impossible-Bot&theme=transparent&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sye0x/Cookie-Clicker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Cookie-Clicker&theme=dark&bg_color=000000&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Cookie-Clicker&theme=transparent&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
   </a>
   <a href="https://github.com/Sye0x/2048-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=2048-Game&theme=dark&bg_color=000000&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=2048-Game&theme=transparent&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
   </a>
 </p>
 
