@@ -31,11 +31,11 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
   </tr>
   <tr>
     <th>📁 My Linkedin</th>
-    <td><a href="https://github.com/Sye0x?tab=repositories" target="_blank">View on Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/syed-mohamid-raza-nadvi-9a909b36b/" target="_blank">View</a></td>
   </tr>
   <tr>
     <th>📄 Resume</th>
-    <td><a href="https://www.linkedin.com/in/syed-mohamid-raza-nadvi-9a909b36b/" target="_blank">Download CV</a></td>
+    <td><a href="https://github.com/Sye0x/Sye0x/blob/main/Syed%20Mohamid%20Raza%20.pdf" target="_blank">View</a></td>
   </tr>
   <tr>
     <th>📫 Contact Me</th>
