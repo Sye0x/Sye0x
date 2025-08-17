@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Computer Science Student | 💻 Digital Craftsman | 🎮 Game Dev | 📲 App Dev
+🚀 Computer Science Student | 💻 React Native | 📲 Cross Platform App Dev
 </h3>
 
 <p align="center">
