@@ -87,17 +87,22 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 const Mohamid = {
   pronouns: "he" | "him",
   frontEnd: { js: ["React"], css: ["Bootstrap"] },
-  backEnd: { js, python },
+  backEnd: { js, python, C++ },
   mobileApp: { crossPlatform: ["Flutter", "React Native"] },
   gameDev: { languages: ["C++"] },
-  databases: ["MySQL", "Firebase Realtime DB"],
+  databases: ["Firebase Realtime DB"],
   tools: ["VS Code", "Android Studio", "Node", "Jupyter Notebook", "Unity"],
   architecture: ["Object-Oriented", "event-driven", "design systems"],
   workedAt: {
     organization: "Ideagist",
     role: ["Web Developer", "Social Media"],
     tools: ["WordPress"]
-  }
+  },
+  workingAt: {
+    organization: "Solochoicez Pvt. Ltd",
+    role: ["Cross Platform App Developer","React Native"],
+    tools: ["Android Studio", "VS Code"]
+  },
 };
 ```
 <h2>♟️ Chess Side-Quest</h2>
