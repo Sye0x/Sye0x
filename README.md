@@ -86,8 +86,8 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 ```javascript
 const Mohamid = {
   pronouns: "he" | "him",
-  frontEnd: { js: ["React"], css: ["Bootstrap"] },
-  backEnd: { js, python, C++ },
+  frontEnd: { js: ["React","React Native"], css: ["Bootstrap"], dart: ["Flutter"] },
+  backEnd: { Java, python, C++ },
   mobileApp: { crossPlatform: ["Flutter", "React Native"] },
   gameDev: { languages: ["C++"] },
   databases: ["Firebase Realtime DB"],
@@ -96,7 +96,7 @@ const Mohamid = {
   workedAt: {
     organization: "Ideagist",
     role: ["Web Developer", "Social Media"],
-    tools: ["WordPress"]
+    tools: ["WordPress","Canva"]
   },
   workingAt: {
     organization: "Solochoicez Pvt. Ltd",
