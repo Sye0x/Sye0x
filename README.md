@@ -87,7 +87,7 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 const Mohamid = {
   pronouns: "he" | "him",
   frontEnd: { js: ["React","React Native"], css: ["Bootstrap"], dart: ["Flutter"] },
-  backEnd: { Java, python, C++ },
+  backEnd: { "Java", "Python", "C++" },
   mobileApp: { crossPlatform: ["Flutter", "React Native"] },
   gameDev: { languages: ["C++"] },
   databases: ["Firebase Realtime DB"],
