@@ -43,36 +43,9 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
   </tr>
 </table>
 
-
----
-
-## 🌟 Top Repositories
-<p align="center">
-  <a href="https://github.com/Sye0x/Sorting-Algorithm-Virtual-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Sorting-Algorithm-Virtual-APP&theme=transparent&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
-  </a>
-  <a href="https://github.com/Sye0x/TIC-TAC-TOE-Impossible-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=TIC-TAC-TOE-Impossible-Bot&theme=transparent&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sye0x/Cookie-Clicker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=Cookie-Clicker&theme=transparent&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
-  </a>
-  <a href="https://github.com/Sye0x/2048-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sye0x&repo=2048-Game&theme=transparent&title_color=2D68C4&icon_color=2D68C4&text_color=ffffff&border_color=2D68C4" />
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sye0x&show_icons=true&theme=transparent&cache_bust=1" width="350" alt="GitHub Stats" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent&cache_bust=1" width="350" alt="GitHub Streak" />
