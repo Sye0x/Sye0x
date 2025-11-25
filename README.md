@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D68C4&center=true&vCenter=true&width=500&height=80&lines=Hi,+I'm+Syed+Mohamid+Raza" alt="Typing SVG" />
-</h1>
+
 
 <h3 align="center">
 🚀 Computer Science Student | 💻 React Native | 📲 Cross Platform App Dev
@@ -29,18 +27,9 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
     <th>🤝 Collaborating On</th>
     <td>Real Problem-Solving Projects</td>
   </tr>
-  <tr>
-    <th>📁 My Linkedin</th>
-    <td><a href="https://www.linkedin.com/in/syed-mohamid-raza-nadvi-9a909b36b/" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <th>📄 Resume</th>
-    <td><a href="https://github.com/Sye0x/Sye0x/blob/main/Syed%20Mohamid%20Raza%20.pdf" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <th>📫 Contact Me</th>
-    <td><a href="mailto:s.r.mahamid@gmail.com">s.r.mahamid@gmail.com</a></td>
-  </tr>
+
+ 
+ 
 </table>
 
 ---
@@ -57,10 +46,10 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 ## 👨‍💻 Gizmos (Tech Stack)
 
 ```javascript
-const Mohamid = {
+const Sye0x = {
   pronouns: "he" | "him",
-  frontEnd: { js: ["React","React Native"], css: ["Bootstrap"], dart: ["Flutter"] },
-  backEnd: { "Java", "Python", "C++" },
+  frontEnd: { js: ["React", "React Native"], css: ["Bootstrap"], dart: ["Flutter"] },
+  backEnd: { "Java", "Python", "C++", "JS"},
   mobileApp: { crossPlatform: ["Flutter", "React Native"] },
   gameDev: { languages: ["C++"] },
   databases: ["Firebase Realtime DB"],
