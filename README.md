@@ -35,7 +35,7 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
   </tr>
   <tr>
     <th>📄 Resume</th>
-    <td><a href="https://github.com/Sye0x/Sye0x/blob/main/Syed%20Mohamid%20Raza%20.pdf" target="_blank">View</a></td>
+    <td><a href="/Mohamid Resume.pdf" target="_blank">View</a></td>
   </tr>
   <tr>
     <th>📫 Contact Me</th>
@@ -50,7 +50,6 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 <p align="center">
   <img src="https://github-readme-streak-stats-xi-tan.vercel.app/api?user=Sye0x&theme=transparent&cache_bust=1" width="350" alt="GitHub Streak" />
 </p>
-
 
 ---
 
@@ -78,6 +77,7 @@ const Mohamid = {
   },
 };
 ```
+
 <h2>♟️ Chess Side-Quest</h2>
 
 ```javascript
@@ -87,14 +87,15 @@ const Chess = {
   link: "https://www.chess.com/member/syex",
   ratings: { blitz: 700, rapid: 1070 },
   favoriteOpening: "London System",
-  goal: "Reach 2000+ in rapid and blitz ♛"
-}
+  goal: "Reach 2000+ in rapid and blitz ♛",
+};
 ```
+
 ---
 
 ## 🏅 Certifications
 
-- **Flutter & Dart – The Complete Guide** (Udemy)  
+- **Flutter & Dart – The Complete Guide** (Udemy)
 - **Introduction to LLMs** (Udemy)
 
 ---
