@@ -35,7 +35,7 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
   </tr>
   <tr>
     <th>📄 Resume</th>
- <td><a href="#" download="Mohamid_Resume.pdf">Download</a></td>  </tr>
+ <td><a href="/Mohamid Resume.pdf" download="Mohamid_Resume.pdf">Download</a></td>  </tr>
   <tr>
     <th>📫 Contact Me</th>
     <td><a href="mailto:s.r.mahamid@gmail.com">s.r.mahamid@gmail.com</a></td>
