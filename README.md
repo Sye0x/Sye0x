@@ -18,27 +18,31 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 
 <table align="center">
   <tr>
-    <th>🔭 Currently Working On</th>
+    <th>Currently Working On</th>
     <td>Cross-Platform Apps & Game Development</td>
   </tr>
   <tr>
-    <th>📚 Currently Learning</th>
+    <th>Currently Learning</th>
     <td>React Native · Flutter · Unity · LLMs</td>
   </tr>
   <tr>
-    <th>🤝 Collaborating On</th>
+    <th>Collaborating On</th>
     <td>Real Problem-Solving Projects</td>
   </tr>
   <tr>
-    <th>📁 My Linkedin</th>
+    <th>My Linkedin</th>
     <td><a href="https://www.linkedin.com/in/syed-mohamid-raza-nadvi-9a909b36b/" target="_blank">View</a></td>
   </tr>
   <tr>
-    <th>📄 Resume</th>
-    <td><a href="/Mohamid Resume.pdf" target="_blank">View</a></td>
+    <th>Resume</th>
+    <td><a href="/Mohamid Raza Resume.pdf" target="_blank">View</a></td>
+  </tr>
+   <tr>
+    <th>Portfolio</th>
+    <td><a href="/Mohamid Raza Resume.pdf" target="_blank">View</a></td>
   </tr>
   <tr>
-    <th>📫 Contact Me</th>
+    <th>Contact Me</th>
     <td><a href="mailto:s.r.mahamid@gmail.com">s.r.mahamid@gmail.com</a></td>
   </tr>
 </table>
