@@ -39,7 +39,7 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
   </tr>
    <tr>
     <th>Portfolio</th>
-    <td><a href="/Mohamid Raza Resume.pdf" target="_blank">View</a></td>
+    <td><a href="https://mohamidraza.vercel.app/" target="_blank">View</a></td>
   </tr>
   <tr>
     <th>Contact Me</th>
