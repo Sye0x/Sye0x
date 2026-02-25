@@ -35,7 +35,11 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
   </tr>
   <tr>
     <th>Resume</th>
-    <td><a href="/Mohamid Raza Resume.pdf" target="_blank">View</a></td>
+    <td>
+    <a href="/Mohamid Raza Resume.pdf" download>
+      Download
+    </a>
+    </td>
   </tr>
    <tr>
     <th>Portfolio</th>
