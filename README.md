@@ -4,9 +4,10 @@
 </h3>
 
 <p align="center">
-Final-year Software Engineering student passionate about building scalable web & mobile applications.<br>
-Experienced in React, React Native, Node.js, MongoDB, and real-time systems.<br>
-I aim to create impactful technology that solves real-world problems and serves millions.<br>
+Software Engineer experienced in building web and mobile applications using React,
+React Native, Node.js, MongoDB, and JavaScript. Worked with real-time data, API
+integration, Git, and responsive design. Built modular, maintainable code in team
+environments.
 </p>
 
 ---
