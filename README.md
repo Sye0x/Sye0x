@@ -1,15 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D68C4&center=true&vCenter=true&width=500&height=80&lines=Hi,+I'm+Syed+Mohamid+Raza" alt="Typing SVG" />
-</h1>
 
 <h3 align="center">
-🚀 Computer Science Student | 💻 React Native | 📲 Cross Platform App Dev
+  Software Engineer | React Native Developer | Full-Stack MERN
 </h3>
 
 <p align="center">
-I am a final-year Computer Science student learning about different technologies and understanding my own strengths and weaknesses.<br>
-I want to explore and learn new things to discover what I can do as a programmer.<br>
-My aim is to leave a mark in the tech industry by creating, innovating, and helping others.<br>
+Final-year Software Engineering student passionate about building scalable web & mobile applications.<br>
+Experienced in React, React Native, Node.js, MongoDB, and real-time systems.<br>
+I aim to create impactful technology that solves real-world problems and serves millions.<br>
 </p>
 
 ---
@@ -19,30 +16,30 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 <table align="center">
   <tr>
     <th>Currently Working On</th>
-    <td>Cross-Platform Apps & Game Development</td>
+    <td>OfferAlert (Deals App) & PSX Insight (Stock Market Analytics)</td>
   </tr>
   <tr>
     <th>Currently Learning</th>
-    <td>React Native · Flutter · Unity · LLMs</td>
+    <td>LLM Integration · RAG Systems · Advanced System Design</td>
   </tr>
   <tr>
-    <th>Collaborating On</th>
-    <td>Real Problem-Solving Projects</td>
+    <th>Experience</th>
+    <td>React Native Developer @ Solochoicez Pvt. Ltd</td>
   </tr>
   <tr>
-    <th>My Linkedin</th>
+    <th>Past Experience</th>
+    <td>Web Developer @ Ideagist Pvt. Ltd</td>
+  </tr>
+  <tr>
+    <th>LinkedIn</th>
     <td><a href="https://www.linkedin.com/in/syed-mohamid-raza-nadvi-9a909b36b/" target="_blank">View</a></td>
   </tr>
   <tr>
-    <th>Resume</th>
-    <td><a href="/Mohamid Raza Resume.pdf" target="_blankzz">View</a></td>
-  </tr>
-   <tr>
     <th>Portfolio</th>
     <td><a href="https://mohamidraza.vercel.app/" target="_blank">View</a></td>
   </tr>
   <tr>
-    <th>Contact Me</th>
+    <th>Email</th>
     <td><a href="mailto:s.r.mahamid@gmail.com">s.r.mahamid@gmail.com</a></td>
   </tr>
 </table>
@@ -57,29 +54,50 @@ My aim is to leave a mark in the tech industry by creating, innovating, and help
 
 ---
 
-## 👨‍💻 Gizmos (Tech Stack)
+## 👨‍💻 Tech Profile
 
 ```javascript
 const Mohamid = {
-  pronouns: "he" | "him",
-  frontEnd: { js: ["React","React Native"], css: ["Bootstrap"], dart: ["Flutter"] },
-  backEnd: { "Java", "Python", "C++" },
-  mobileApp: { crossPlatform: ["Flutter", "React Native"] },
-  gameDev: { languages: ["C++"] },
-  databases: ["Firebase Realtime DB"],
-  tools: ["VS Code", "Android Studio", "Node", "Jupyter Notebook", "Unity"],
-  architecture: ["Object-Oriented", "event-driven", "design systems"],
-  workedAt: {
-    organization: "Ideagist",
-    role: ["Web Developer", "Social Media"],
-    tools: ["WordPress","Canva"]
+  pronouns: "he/him",
+
+  education: {
+    degree: "BS Computer Science",
+    university: "Capital University of Science & Technology",
+    duration: "Mar 2022 - Feb 2026",
   },
-  workingAt: {
-    organization: "Solochoicez Pvt. Ltd",
-    role: ["Cross Platform App Developer","React Native"],
-    tools: ["Android Studio", "VS Code"]
+
+  frontend: ["React", "React Native", "Flutter", "Bootstrap", "Tailwind CSS", "JavaScript"],
+
+  backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "PHP (Laravel)", "REST APIs"],
+
+  ai_ml: ["Python", "LLM Integration", "RAG Systems", "AI API Integration"],
+
+  gameDev: ["C#", "C++", "GDScript", "Unity", "Godot", "Blueprint"],
+
+  tools: ["Git/GitHub", "Firebase", "Postman", "VS Code", "Android Studio"],
+
+  experience: {
+    current: {
+      company: "Solochoicez Pvt. Ltd",
+      role: "React Native Developer",
+      impact: [
+        "Developed 5 cross-platform mobile apps",
+        "Built 10+ core features including authentication & real-time updates",
+        "Improved development efficiency by ~30% using modular components",
+      ],
+    },
+    previous: {
+      company: "Ideagist Pvt. Ltd",
+      role: "Web Developer",
+      impact: [
+        "Contributed to 2 websites (20+ pages, 10,000+ users)",
+        "Improved website performance by 20%",
+      ],
+    },
   },
 };
+
+
 ```
 
 <h2>♟️ Chess Side-Quest</h2>
@@ -94,20 +112,25 @@ const Chess = {
   goal: "Reach 2000+ in rapid and blitz ♛",
 };
 ```
-
 ---
 
-## 🏅 Certifications
+<h2>📜 Certifications</h2>
 
-- **Flutter & Dart – The Complete Guide** (Udemy)
-- **Introduction to LLMs** (Udemy)
+<ul>
+  <li><strong>React</strong> – FreeCodeCamp</li>
+  <li><strong>React Native</strong> – FreeCodeCamp</li>
+  <li><strong>JavaScript</strong> – FreeCodeCamp</li>
+  <li><strong>Flutter</strong> – Udemy</li>
+  <li><strong>LLM Mastery</strong> – Udemy</li>
+  <li><strong>Generative AI</strong> – Udemy</li>
+</ul>
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,unity,nodejs,tailwind,bootstrap,python,flask,mysql,firebase,git,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,js,nodejs,express,mongodb,postgres,php,laravel,python,firebase,unity,godot,cpp,cs,git,github,postman,vscode,androidstudio,bootstrap,tailwind" />
 </p>
 
 ---
