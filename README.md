@@ -142,4 +142,4 @@ const Chess = {
 
 ---
 
-<h2 align="center">Have a wonderful day 🎇</h2>
+<h2 align="center">Have a wonderful day my friend 🎇</h2>
