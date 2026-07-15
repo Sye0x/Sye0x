@@ -10,6 +10,7 @@ I build scalable mobile and web applications with a focus on performance, clean 
 
 <p align="center">
   <a href="https://mohamidraza.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://mohamidraza.vercel.app/documents/resume.pdf" target="_blank">Resume</a> •
   <a href="https://www.linkedin.com/in/syed-mohamid-raza-nadvi-9a909b36b/" target="_blank">LinkedIn</a> •
   <a href="mailto:s.r.mahamid@gmail.com">Email</a>
 </p>
