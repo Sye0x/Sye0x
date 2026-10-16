@@ -46,7 +46,7 @@ improved overall UX.
 - Enhanced website performance by 20% through code optimization and removal of redundant data and scripts.
 
 ## Tech Stack
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 BUILD</h3>
