@@ -1,5 +1,8 @@
 <div align="center">
-  <img  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1aa1aa&section=header&reversal=false&text=Hi%2C+I%27m+Mohamid&textBg=false&fontColor=FFF&fontSize=60&fontAlign=50&fontAlignY=33&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineer+%7C+Web+Developer+%7C+Full+Stack&descSize=25&descAlign=50&descAlignY=53" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1aa1aa&section=header&reversal=false&text=Hi%2C+I%27m+Mohamid&textBg=false&fontColor=FFF&fontSize=60&fontAlign=50&fontAlignY=33&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Engineer+%7C+Web+Developer+%7C+Full+Stack&descSize=25&descAlign=50&descAlignY=53"
+    alt="Hi, I'm Mohamid — Software Engineer | Web Developer | Full Stack"
+  />
 </div>
 
 <p align="center">
@@ -18,10 +21,11 @@ Experienced in delivering e-commerce, financial, and team management platforms u
   <a href="https://www.linkedin.com/in/syed-mohamid-raza-nadvi-9a909b36b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:s.r.mahamid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
+
+## Contact
+- **+92 325 5395420**
+- **s.r.mahamid@gmail.com**
 
 
 ## Education
