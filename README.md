@@ -95,9 +95,9 @@ improved overall UX.
 - Generative AI — Udemy  
 
 ## What I Bring
-- Clean, Scalable Architecture: Writing maintainable, efficient code structured for high performance and long-term growth.
-- User-Centric Mobile Design: Blending strong UI/UX principles with crisp front-end development to build intuitive mobile experiences.
-- Production-Ready Experience: Shipping real-world applications with a deep focus on stability, security, and scalable database design.
+- **Scalable Architecture:** Clean, maintainable, performant code.
+- **Mobile UX:** Intuitive, user-focused app experiences.
+- **Production-Tested:** Secure, reliable real-world systems.
 
 ---
 <h3 align="center">Let's build something impactful</h3>
